@@ -1,0 +1,5 @@
+# Ignore folder named "data"
+data/
+
+# Ignore all .idea/
+.idea/
